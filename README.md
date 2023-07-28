@@ -39,7 +39,7 @@
 </head>
 
 <body>
-    <h1>Privacy Policy for OldNew App</h1>
+    <h1>OldNew App</h1>
 
     <p><strong>Effective date: 31.12.2023</strong></p>
 
