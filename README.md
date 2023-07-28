@@ -25,6 +25,17 @@
         p {
             margin-bottom: 20px;
         }
+        
+        main {
+        background-color: #ffffff;
+        padding: 20px;
+        border-radius: 5px;
+        }
+
+        footer {
+        text-align: center;
+        margin-top: 30px;
+        }
 
         .highlight {
             background-color: #f9f9f9;
@@ -42,7 +53,7 @@
     <h1>OldNew App</h1>
 
     <p><strong>Effective date: 31.12.2023</strong></p>
-
+<main>
     <h2>1. Introduction</h2>
 
     <p>Welcome to OldNew! This Privacy Policy outlines how OldNew Inc. ("we", "us", or "our") collects, uses, and protects the personal information you provide when using the OldNew mobile application ("App"). By accessing or using the App, you agree to the terms of this Privacy Policy. If you do not agree with any part of this policy, please refrain from using the App.</p>
@@ -105,8 +116,12 @@
     <h2>9. Contact Us</h2>
 
     <p>If you have any questions or concerns about this Privacy Policy, please contact us at <span class="contact-email">oldnew.soict@gmail.com</span></p>
+</main>
 
+<footer>
     <p>By using the OldNew App, you consent to the terms of this Privacy Policy and the collection and use of your personal information as outlined herein.</p>
+</footer>
+
 </body>
 
 </html>
