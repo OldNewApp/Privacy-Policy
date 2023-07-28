@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Privacy Policy for OldNew App</title>
+    <title>OldNew App</title>
     <style>
         body {
             font-family: Arial, sans-serif;
